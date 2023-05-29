@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/radio-online/static/css/main.073c9b0a.css",
-    "main.js": "/radio-online/static/js/main.7162e395.js",
-    "static/js/787.a223629a.chunk.js": "/radio-online/static/js/787.a223629a.chunk.js",
-    "index.html": "/radio-online/index.html",
-    "main.073c9b0a.css.map": "/radio-online/static/css/main.073c9b0a.css.map",
-    "main.7162e395.js.map": "/radio-online/static/js/main.7162e395.js.map",
-    "787.a223629a.chunk.js.map": "/radio-online/static/js/787.a223629a.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.e95fbe1a.js",
+    "static/js/787.a223629a.chunk.js": "/static/js/787.a223629a.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.e95fbe1a.js.map": "/static/js/main.e95fbe1a.js.map",
+    "787.a223629a.chunk.js.map": "/static/js/787.a223629a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7162e395.js"
+    "static/js/main.e95fbe1a.js"
   ]
 }
